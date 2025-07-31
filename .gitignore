@@ -1,0 +1,28 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+venv/
+env/
+
+# Flask session files
+flask_session/
+
+# Logs
+*.log
+
+# PDF files générés
+*.pdf
+
+# Modèles fine-tunés
+fine_tuned_distilbert/
+
+# IDEs
+.vscode/
+.idea/
+
+# MacOS
+.DS_Store
